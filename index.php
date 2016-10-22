@@ -17,7 +17,7 @@
   <header>
   <h1 style="padding:20px; background-color: black; color: white;">Website Ramal</h1></header>
 
-  <form action="nama.php" method="get">
+  <form action="dionarya.php" method="get">
 Nama Kamu :         <input type="text" name="nama1"><br>
 Jenis Kelamin Kamu: <input type="radio" name="JK" value="LakiLaki">Cowok
                     <input type="radio" name="JK" value="Perempuan">Cewek
