@@ -1,11 +1,4 @@
-<!---
-================================
-= HAi Saya Dion Arya Pamungkas =
-=Selamat Menikmati Script saya =
-=fb.com/dion.aryapamungkas    =
-=twitter.com/DionArya_P       =
-=Please Jangan Hapus ini      =
-=============================== -->
+
 <!DOCTYPE html>
 <html>
 <head>
